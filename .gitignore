@@ -1,0 +1,33 @@
+# Private: hardware designs, parts lists, notes
+*.stl
+*.step
+*.3mf
+*.xlsx
+*.xls
+*.csv
+*.zip
+*.pdf
+voicetwin-dock-concepts/
+private/
+plans/
+notes/
+docs/private/
+
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+secrets.*
+
+# OS and editors
+.DS_Store
+~$*
+.vscode/
+.idea/
+
+# Build output
+build/
+__pycache__/
+*.pyc
+node_modules/
